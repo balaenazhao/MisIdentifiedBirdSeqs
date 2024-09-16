@@ -12,17 +12,18 @@ Sangster & Luksenburg 2024. *The published complete mitochondrial genome of Blue
 
 
 ## **More mis-identified sequences found through my own research**
+```
 Anthus roseatus mitogenome **MN814327** (also identical to NC_061412)
-
 Blasted to be most closely to Alauda arvensis (99.19% identity).
+```
 
-
+```
 Phoenicurus fuliginosus
 cytochrome b (Cytb) **KJ024172**
 NADH dehydrogenase subunit 2 (ND2) **KJ024236**
 
 Blasted to be most closely to Niltava macgrigoriae (99.90% and 99.60% identity respectively).
-
+```
 
 Phoenicurus hodgsoni cytochrome oxidase subunit 1 (COI) **MK598926**
 
