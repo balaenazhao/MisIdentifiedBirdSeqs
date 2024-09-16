@@ -14,14 +14,14 @@ Sangster & Luksenburg 2024. *The published complete mitochondrial genome of Blue
 ## **More mis-identified sequences found through my own research**
 ```
 Anthus roseatus mitogenome **MN814327** (also identical to NC_061412)
-Blasted to be most closely to Alauda arvensis with 99.19% identity.
+Blasted to be most closely related to Alauda arvensis with 99.19% identity.
 ```
 
 ```
 Phoenicurus fuliginosus
 cytochrome b (Cytb) **KJ024172**
 NADH dehydrogenase subunit 2 (ND2) **KJ024236**
-Blasted to be most closely to Niltava macgrigoriae with 99.90% and 99.60% identity respectively.
+Blasted to be most closely related to Niltava macgrigoriae with 99.90% and 99.60% identity respectively.
 ```
 
 ```
@@ -31,7 +31,7 @@ Blasted to Phoenicurus frontalis JX970703 with 100% identity, to Phoenicurus fro
 
 ```
 Cyornis banyumas cytochrome b (cytb) **EF081352**
-Blasted to be most closely to Cyornis glaucicomans with 99.59% identity.
+Blasted to be most closely related to Cyornis glaucicomans with 99.59% identity.
 ```
 
 ```
@@ -54,6 +54,6 @@ cytochrome b (cytb) **MN991596**
 NADH dehydrogenase subunit 2 (ND2) **MN991467**
 muscle skeletal receptor tyrosine kinase (MUSK) **MN991751**
 transforming growth factor beta 2 (TGFB2) **MN991913**
-Most likely a Muscicapa sibirica
+Mito seqs blasted to be part of the Muscicapa sibirica mitogenome (NC_045374) with 100% and 99.81% identity respectively.
 ```
 
