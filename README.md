@@ -1,13 +1,17 @@
 # Mis-identified Bird Seqs
 Reporting mis-identified bird sequences from NCBI GenBank
 
-**Published reports on mis-identified and other problematic sequences**
+## **Published reports on mis-identified and other problematic sequences**
 Be sure to first read through the papers below and their supplumentary files.
+
 Sangster & Luksenburg 2021. *Sharp Increase of Problematic Mitogenomes of Birds: Causes, Consequences, and Remedies* (https://doi.org/10.1093/gbe/evab210)
+
 Sangster & Luksenburg 2021. *Scientific data laundering: Chimeric mitogenomes of a sparrowhawk and a nightjar covered-up by forged phylogenies* (https://doi.org/10.1016/j.bse.2021.104263)
+
 Sangster & Luksenburg 2024. *The published complete mitochondrial genome of Blue-fronted Redstart (Phoenicurus frontalis) is a chimera and includes DNA from Pink-rumped Rosefinch Carpodacus waltoni eos (Aves: Passeriformes)* (https://doi.org/10.1080/23802359.2024.2377170)
 
-**More mis-identified sequences found through my own research**
+
+## **More mis-identified sequences found through my own research**
 Anthus roseatus mitogenome **MN814327** (also identical to NC_061412)
 Blasted to be most closely to Alauda arvensis (99.19% identity).
 
