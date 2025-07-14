@@ -18,6 +18,13 @@ Blasted to be most closely related to Alauda arvensis with 99.19% identity.
 ```
 
 ```
+Alauda arvensis isolate locus AVIPK006-BRC-00007
+cytochrome c oxidase subunit I (COX1) gene **OR234853**
+Blast to Calandrella brachydactyla (Greater Short-toed lark) with 99.85% identity
+Also on BOLD system (Sequence ID: GBCOC18604-23.COI-5P)
+```
+
+```
 Phoenicurus fuliginosus
 cytochrome b (Cytb) **KJ024172**
 NADH dehydrogenase subunit 2 (ND2) **KJ024236**
@@ -56,4 +63,3 @@ muscle skeletal receptor tyrosine kinase (MUSK) **MN991751**
 transforming growth factor beta 2 (TGFB2) **MN991913**
 Mito seqs blasted to be part of the Muscicapa sibirica mitogenome (NC_045374) with 100% and 99.81% identity respectively.
 ```
-
