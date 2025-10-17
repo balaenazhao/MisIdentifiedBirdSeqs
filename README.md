@@ -63,3 +63,9 @@ muscle skeletal receptor tyrosine kinase (MUSK) **MN991751**
 transforming growth factor beta 2 (TGFB2) **MN991913**
 Mito seqs blasted to be part of the Muscicapa sibirica mitogenome (NC_045374) with 100% and 99.81% identity respectively.
 ```
+
+```
+Lanius tephronotus mitogenome **NC_021105.1** (also identical to JX486029)
+Blast to Lanius schach mitogenome with 99.82% identity
+COX1 from this mitogenome (NC_021105.1:5401-6951) also blast to Lanius schach COX1 sequences with > 99.5% identity.
+```
